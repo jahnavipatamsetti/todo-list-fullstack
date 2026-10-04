@@ -1,4 +1,4 @@
-const API_BASE_URL = 'http://localhost:3000';
+const API_BASE_URL = 'https://todo-list-fullstack-ooq4.onrender.com';
 
 export interface User {
   id: number;
